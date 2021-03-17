@@ -4,7 +4,7 @@ body{
     color: black;
     max-width: 670px;
 }
-img{
+#elsolep{
     width: 650px;
     height: 200px;
     margin: auto;
@@ -19,4 +19,12 @@ table{
     background-color: (#485808);
     height: 60pt;
     margin: auto;
+}
+#can{
+    border: 1pt solid black;
+    margin:0 auto;
+    display: block;
+}
+li{
+    
 }
