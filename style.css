@@ -12,13 +12,16 @@ body{
 table{
     width: 670px;
     margin: auto;
-    background-color: whitesmoke;
+    background-color: (#485808);
+    
     
 }
 #belso{
     background-color: (#485808);
     height: 60pt;
-    margin: auto;
+    margin:0 auto;
+    text-align: center;
+
 }
 #can{
     border: 1pt solid black;
@@ -26,5 +29,9 @@ table{
     display: block;
 }
 li{
-    
+    list-style-image: url(jel.png);
+    color: white;
+}
+a{
+    color: white;
 }
