@@ -11,4 +11,10 @@ img{
 table{
     width: 670px;
     margin: auto;
+    background-color: whitesmoke;
+    
+}
+.belso{
+    background-color: (#485808);
+    height: 60px;
 }
